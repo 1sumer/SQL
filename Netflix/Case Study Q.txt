@@ -1,0 +1,30 @@
+1. What were the top 10 movies according to IMDB score?
+2. What were the top 10 shows according to IMDB score?
+3. What were the bottom 10 movies according to IMDB score? 
+4. What were the Top 10 shows according to IMDB score?
+5. What were the average IMDB and TMDB scores for shows and movies?
+6. Count of movies and shows in each decade?
+7. What were the average IMDB and TMDB scores for each production country?
+8. What were the average IMDB and TMDB scores for each age certification for shows and movies?
+9. What were the 5 most common age certifications for movies?
+10. Who were the top 20 actors that appeared the most in movies/shows?
+11. Who were the top 20 directors that directed the most movies/shows? 
+12. Calculat the average runtime of movies and TV shows separately
+13. Finding the titles and  directors of movies released on or after 2010
+14. Which shows on Netflix have the most seasons?
+15. Which genres had the most movies?
+16. Which genres had the most shows?
+17. Titles and Directors of movies with high IMDB scores (>7.5) and high IMDB popularity scores (>80)
+18. What were the total number of titles for each year?
+19. Actors who have starred in the most highly rated movies or shows
+20. Which actors/actresses played the same character in multiple movies or TV shows?
+21. What were the top 3 most common genres?
+22. Average IMDB score for leading actors/actresses in movies or shows 
+23. List all titles and their genres where the genre contains 'Comedy' and the release year is before 2000.
+24. Find all titles that have the same IMDb score as 'The Godfather' (assuming 'The Godfather' is in the database)
+25. List all titles along with their release year and IMDb score for titles that have 'Action' as one of their genres.
+26. Find the average number of votes on IMDb for titles with a TMDb score greater than 7.0.
+27. Find the titles of all movies with a runtime of more than 120 minutes.
+28. Find titles that have a runtime between 90 and 150 minutes
+29. Get the name and character name of the individual with person_id 12345.
+30. Find the title and release year of all movies released in 2020 from the titles table
