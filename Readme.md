@@ -13,11 +13,11 @@ This repository contains SQL scripts and data for various analytical and databas
 The repository includes datasets for the following domains:
 
 ### 1. **E-Commerce Data**
-- **Tables**: `Customers`, `Orders`, `OrderDetails`, `Products`
+- **Tables**: `Customers`, `Orders`, `OrderDetails`, `Products`, `InventoryDetails`
 - **Features**: Analyze customer behavior, order trends, and product performance.
 
 ### 2. **Netflix Movies and Shows**
-- **Tables**: `MoviesAndShows`, `Credits`
+- **Tables**: `titles`, `Credits`
 - **Features**: Explore content distribution, ratings, and geographical diversity.
 
 ## SQL Scripts
@@ -54,9 +54,6 @@ The project includes SQL scripts for various analyses:
 ## Conclusion
 This repository provides a comprehensive set of SQL scripts and data for analyzing various business and content-related scenarios. It serves as a practical resource for learning and applying SQL in real-world contexts.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
-- [Dataset Providers](#) (if applicable)
+- [Dataset Providers](www.kagal.com) (if applicable)
 - [SQL Documentation](https://www.mysql.com/products/workbench/) (for SQL client usage)
